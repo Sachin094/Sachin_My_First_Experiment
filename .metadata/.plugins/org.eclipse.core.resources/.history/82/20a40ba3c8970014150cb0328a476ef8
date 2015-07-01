@@ -1,0 +1,15 @@
+
+public class Basics {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int sum=Mohan.add(5, 10);
+		System.out.println(sum);
+
+	}
+
+}
